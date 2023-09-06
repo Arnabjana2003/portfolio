@@ -328,6 +328,7 @@ theme button {
 .skill:hover{
  box-shadow: 3px 3px 6px var(--primary-text-color);
  border: 1px solid var(--secondary-text-color);
+ transform: translateY(-20px) ;
 }
 .project{
  justify-content: center;
@@ -347,6 +348,7 @@ theme button {
 .project:hover{
  box-shadow: 3px 3px 6px var(--primary-text-color);
  border: 1px solid var(--secondary-text-color);
+ transform: translateY(-20px);
 }
 .see-more button{
  border:none;
