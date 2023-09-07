@@ -407,7 +407,7 @@ footer{
 @media only screen and (min-width: 600px) {
  .name h1 {
   font-size: 1.2rem;
-  color: var(--bold-text);
+  color: white;
  }
  .name h1 span {
   font-size: 1.7rem;
@@ -437,6 +437,8 @@ footer{
   display: inline;
   margin-block: 0;
  font-size: 1rem;
+color: white;
+
  }
  .hero {
   flex-direction: row;
